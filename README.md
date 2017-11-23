@@ -18,7 +18,6 @@ We will do this workshop in a pair programming mode. So find a buddy.
 7. Troubleshoot - logs, tracing, monitoring
 
 Theme based labs.
-8. Local development with SAM local
-9. Let make it intelligent with AI and deep learning
-   a. build the model
-   b. deploy the model
+1. Local development with SAM local
+1. Let make it intelligent with AI and deep learning
+   
