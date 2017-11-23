@@ -1,4 +1,4 @@
- a. long running app on containers  (Fargate)
+ a. long running app on containers  
    i. dockerize pet clinic App
    ii. add some secrets and config
    iii. service discovery
@@ -7,5 +7,5 @@
    vi. integrate IAM
    vii. enable logs
    viii. emit custom metrics
-  b. event driven app on Serverless (Lambda)
+  b. event driven app on Serverless 
   c. infrastructure as code
