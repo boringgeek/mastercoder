@@ -8,17 +8,6 @@ Labs
 
 1. SetUp Development Environment and the collaboration tool (slack channel)
 2. Build the 12 factor microservice based app ( all from code )  
-  a. long running app on containers  (Fargate)
-   i. dockerize pet clinic App
-   ii. add some secrets and config
-   iii. service discovery
-   iv. make it scalable
-   v. integrate load balancer
-   vi. integrate IAM
-   vii. enable logs
-   viii. emit custom metrics
-  b. event driven app on Serverless (Lambda)
-  c. infrastructure as code
 3. Write some tests
 4. Code Review
 5. Build a CD pipeline
