@@ -7,7 +7,7 @@ We will do this workshop in a pair programming mode. So find a buddy.
 Labs
 
 1. SetUp Development Environment and the collaboration tool (slack channel)
-2. Build the 12 factor microservice based app ( all from code )  
+2. [Build the 12 factor microservice based app ](./app/README.md)
 3. Write some tests
 4. Code Review
 5. Build a CD pipeline
