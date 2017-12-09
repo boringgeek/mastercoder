@@ -11,9 +11,9 @@ We will do this workshop in a pair programming mode. So find a buddy.
 
 1. SetUp Development Environment and the collaboration tool (slack channel)
 2. [Build the 12 factor microservice based app ](./app/README.md)
-3. Continuouse Integration - Tests and Review
-4. Continuous Delivery
-5. Troubleshoot - logs, tracing, monitoring
+3. [Continuous Integration - Tests and Review ](./ci/README.md)
+4. [Continuous Delivery - Pipelines](,/cd/README.md)
+5. [Troubleshoot - logs, tracing, monitoring](./debug_trace/README.md)
 
 **Advanced labs**
 1. Local development with SAM local
