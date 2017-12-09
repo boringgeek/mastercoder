@@ -4,7 +4,7 @@ We will build a simple web app based on microservices using the 12 factor method
 
 We will do this workshop in a pair programming mode. So find a buddy.
 
-Pre-requisite
+**Pre-requisite**
 1. Setup AWS account 
 
 **Labs**
@@ -15,7 +15,7 @@ Pre-requisite
 4. Continuous Delivery
 5. Troubleshoot - logs, tracing, monitoring
 
-Advanced labs.
+**Advanced labs**
 1. Local development with SAM local
 1. AI and deep learning
    
